@@ -1,0 +1,28 @@
+{
+  "name": "car",
+  "version": "1.0.0",
+  "description": "class class to instantiate various vehicles",
+  "main": "..app/library.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiomaIke/OOP.git"
+  },
+  "keywords": [
+    "class"
+  ],
+  "author": "Chioma Ike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiomaIke/OOP/issues"
+  },
+  "homepage": "https://github.com/ChiomaIke/OOP#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
